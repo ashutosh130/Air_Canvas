@@ -5,7 +5,7 @@
 
 Clone the repo to your files
 ```bash
-git clone https://github.com/RomalaMishra/Air_Canvas.git
+git clone https://github.com/ashutosh130/Air_Canvas.git
 ```
 
 Install the following libraries by running
